@@ -270,7 +270,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | 'C:\Users\fashx\Desktop\Spring 2022\DIG 250\Week 1\T 1_26\learn-git-milestones'
 2d | Link to `commit #3 from CLI` |[Link to commit #3](https://github.com/FrancDuarteMar/learn-git-milestones/commit/3570910fbf1831edfa05d4c54c544fe4223ea47f)
 2e | 3rd Favorite emoji | 🎉
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` |[Link to commit #4](https://github.com/FrancDuarteMar/learn-git-milestones/commit/e612b0667fc48b05d32ed97bf941616848de1815)
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
