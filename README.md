@@ -271,7 +271,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |[Link to commit #3](https://github.com/FrancDuarteMar/learn-git-milestones/commit/3570910fbf1831edfa05d4c54c544fe4223ea47f)
 2e | 3rd Favorite emoji | 🎉
 2f | Link to `commit #4 from Atom` |[Link to commit #4](https://github.com/FrancDuarteMar/learn-git-milestones/commit/e612b0667fc48b05d32ed97bf941616848de1815)
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | [Link to my-awesome-project repo](https://github.com/FrancDuarteMar/my-awesome-project)
 4a | Link to `my-awesome-project` github.io "project site" |
 ... | ... | Total: 0/12
 
